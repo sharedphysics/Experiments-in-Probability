@@ -1,8 +1,6 @@
 # Experiments in Probability with Python
 
-Learning probability with Python
-
----
+### Learning probability and python
 
 To get started, make sure Python is (installed)[https://docs.python-guide.org/starting/install3/osx/] locally. Do this by opening Terminal and installing `HomeBrew`, then installing `Python`:
 ```
